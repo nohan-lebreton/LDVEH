@@ -1,0 +1,8 @@
+Bienvenue jeune prépubère, tu te trouves actuellement dans le royaume casse-geule. Vous êtes quoi ?
+J'ai une mission pour vous, vous l'acceptez oui ou non ?
+Pensez-vous que vous allez m'être utile ou pas ?
+Gagné!
+Perdu!
+Perdu!
+Gagné!
+

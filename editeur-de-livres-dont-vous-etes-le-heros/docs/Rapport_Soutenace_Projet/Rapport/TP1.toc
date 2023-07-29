@@ -1,0 +1,20 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{2}%
+\contentsline {subsection}{\numberline {1.1}Description du sujet de projet}{2}%
+\contentsline {subsection}{\numberline {1.2}Présentation du plan du rapport}{2}%
+\contentsline {section}{\numberline {2}Objectif du projet}{2}%
+\contentsline {subsection}{\numberline {2.1}Interprétation du sujet de projet}{2}%
+\contentsline {subsection}{\numberline {2.2}Description de travaux existants sur le même sujet }{2}%
+\contentsline {section}{\numberline {3}Fonctionnalités implémentées}{3}%
+\contentsline {subsection}{\numberline {3.1}Description des fonctionnalités}{3}%
+\contentsline {subsection}{\numberline {3.2}Organisation du projet}{3}%
+\contentsline {section}{\numberline {4}\'Elements techniques}{4}%
+\contentsline {subsection}{\numberline {4.1}Description des paquetages non standards utilisés}{4}%
+\contentsline {subsection}{\numberline {4.2}Description des algorithmes}{4}%
+\contentsline {section}{\numberline {5}Architecture du projet}{4}%
+\contentsline {subsection}{\numberline {5.1}Diagrammes des modules et des classes}{4}%
+\contentsline {subsection}{\numberline {5.2}Chaînes de traitements}{5}%
+\contentsline {section}{\numberline {6}Expérimentations et usages}{5}%
+\contentsline {subsection}{\numberline {6.1}Cas d'utilisation}{5}%
+\contentsline {subsection}{\numberline {6.2}Résultats quantifiables}{6}%
+\contentsline {section}{\numberline {7}Conclusion}{6}%

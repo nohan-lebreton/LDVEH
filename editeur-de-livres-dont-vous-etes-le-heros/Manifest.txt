@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Dordolot-des-Essarts Arthur/ LONGUET Bryan / DUCLOS Arthur / LEBRETON Nohan / GUILLOT Benjamin
+Main-Class: Main

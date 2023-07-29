@@ -1,0 +1,7 @@
+Bienvenue jeune écuyer, tu te trouves actuellement dans le royaume Wonderlands. Vous êtes quoi ?
+J'ai une mission pour vous, vous l'acceptez oui ou non ?
+Pensez-vous que vous allez m'être utile ?
+Gagné!
+Perdu!
+Perdu, le roi a été assassiné!
+Gagné!

@@ -1,0 +1,18 @@
+Pour le premier chekout Création du dépôt local :
+svn checkout https://forge.info.unicaen.fr/svn/jeu-d-infection --username=21901960
+(Changez le numéro etudiants)
+
+Mise à jour du dépôt local:
+svn update
+(à faire avant de commit afin de commit la bonne version)
+
+Voir le status du depot:
+svn status
+
+Ajout de fichiers locaux:
+svn add nom-de-fichier ou svn add *
+Suppression de fichiers locaux:
+svn del nom-de-fichier
+
+Envoyer les fichiers ajouter avec add:
+svn commit -m "message pour le commit"

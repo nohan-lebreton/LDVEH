@@ -1,0 +1,172 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}%encodage des caractères
+\usepackage[T1]{fontenc}%encodage de la police
+\usepackage[french]{babel}%langue française
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{titlepage}
+
+\title{Rapport du projet Conception logicielle avancée}
+\author{Dorlodot Des Essarts, Duclos, Guillot, Lebreton, Longuet}
+\date{04 avril 2022}
+\maketitle
+\begin{figure}[htp]
+  
+  \centering
+    \includegraphics[width=0.5\textwidth]{Logo_unicaen}
+\end{figure}
+\vfill
+\vfill
+\begin{flushleft}
+Encadrants :\\
+M. Grégory Bonnet\\
+M. Meddouri Nida\\
+\bigskip
+Année : 2021-2022\\
+\end{flushleft}
+
+\hfill
+\thispagestyle{empty}
+\setcounter{page}{0}
+\end{titlepage}
+
+
+
+
+\newpage
+
+\tableofcontents
+
+\newpage
+	
+\section{Introduction}
+\subsection{Description du sujet de projet}
+Énoncé : Les livres dont vous êtes le héros (ou LDVEH) sont des jeux de rôles en solitaire dont la
+narration est décomposées en paragraphes, dispersés dans le livre. Des liens, en fonction des choix
+du lecteurs, permettent d’aller d’un paragraphe à l’autre.\medskip
+\\
+Dans un premier temps, il s’agira de développer un éditeur de texte qui maintienne le graphe du jeu 
+et qui puisse réorganiser aléatoirement le livre. L’affichage de la ou les solutions (paragraphe devant être traversés pour
+gagner) devront être calculées ainsi que la difficulté du jeu (proportions de solutions au regard des
+chemins possibles).\medskip
+\\
+Dans un second temps, il s’agira d’ajouter un système de rencontres et de combat, ainsi que la gestion d’objets ou d’indices qui peuvent être nécessaire pour gagner. \medskip
+\\
+Enfin, un mode lecture permettant de jouer au LDVEH pourra être implanté.
+\subsection{Présentation du plan du rapport}
+\textbf{A faire}
+
+Blabla
+\section{Objectif du projet}
+\subsection{Interprétation du sujet de projet}
+\textbf{A faire}
+\subsection{Description de travaux existants sur le même sujet	}
+\noindent
+\textbf{A développer}
+
+\noindent
+http://litteraction.fr/presentation/livre-dont-on-est-le-heros/logiciels \medskip
+\\
+https://projectaon.org/staff/christian/gamebook.js/
+\section{Fonctionnalités implémentées}
+\subsection{Description des fonctionnalités}
+\textbf{A finir}
+
+\noindent
+-Textes et règles de l'histoire personalisables 
+-Personaliser l'arbre du déroulement de l'histoire (nombre de branches, de noeuds...)
+-Implémentation de l'inventaire du joueur
+-Un mode lecture pour l'histoire créée
+-(Ajout de son à l'histoire)
+-Interface graphique afin de visualiser le programme sans console
+-Création du graphique représentatif de l'histoire
+\subsection{Organisation du projet}
+\textbf{A faire}
+\newpage
+\section{\'Elements techniques}
+\subsection{Description des paquetages non standards utilisés}
+\textbf{A faire}
+
+Ceci est un rapport rédigé en LaTeX\footnote{1. langage que nous apprenons aujourd'hui.}. La première sous-section, c'est-àdire la sous-section 1.1 se situe en page 2 (numéro de page calculé automatiquement). Ci-dessous se trouve une liste numérotée d'items :
+\begin{enumerate}
+  \item bla
+  \item ble
+  \item bli
+  \item blo
+  \item blu
+\end{enumerate}
+\subsection{Description des algorithmes}
+\textbf{A faire}
+
+ \begin{table}[htp]
+	\centering
+		\begin{tabular}{|c|l|r|}
+  		\hline
+  		texte centré & texte à gauche & texte à droite \\
+  		\hline
+  		a & b & c \\
+  		\hline
+  		d & e & f \\
+  		\hline
+		\end{tabular}
+	\caption{Caption below table.}
+\end{table}
+
+Le tableau 1 est nommé.
+\section{Architecture du projet}
+\subsection{Diagrammes des modules et des classes}
+\textbf{A faire}
+
+\textbf{Un arbre, la racine étant le point reliant tous les modules, puis pour chaque module, des branches pour chaque classe, puis des branches pour les méthodes.}
+
+Le nombre $\pi$ vaut environ $3.14$, ou encore $\frac{22}{7}$ ou $\frac{\frac{44}{2}}{\sqrt{7^2}}$ à un gros $\epsilon$ près.
+\newline 
+
+Une équation non numérotée :
+$$ a^2 + b^2 = c^2$$
+\newline 
+
+Une équation numérotée :
+\begin{equation}
+a^2 + b^2 = c^2
+\end{equation}
+
+On peut citer l'équation précédente comme étant l'équation 1.
+\newline
+
+Avec "align", on peut citer chaque ligne d'une équation. Par exemple,
+\newline
+l'équation 2 et l'équation 3.
+\begin{align}
+f(x) &=\qquad x^2 + 8x + 16 \\
+	 &=\qquad (x+4)^2 
+\end{align}
+\subsection{Chaînes de traitements}
+\textbf{A faire}
+
+\textbf{Déroulement chronologique du programme, boite par boite}
+\section{Expérimentations et usages}
+\subsection{Cas d'utilisation}
+\textbf{A faire}
+
+\textbf{Mode d'emploi sur un cas d'exemple}
+Je cite la première référence [1]. Je peux aussi citer les 3 d'un seul coup
+[1, 2, 3].
+\begin{thebibliography}{1}
+\bibitem{notes} John W. Dower {\em Readings compiled for History 21.479.} 1991.
+\bibitem{impj} The Japan Reader {\em Imperial Japan 1800-1945} 1973: Random House, N.Y.
+\bibitem{norman} E. H. Norman {\em Japan's emergence as a modern state} 1940: International Secretariat, Institute of Pacific Relations.
+\bibitem{fo} Bob Tadashi Wakabayashi {\em Anti-Foreignism and Western Learning in Early-Modern Japan} 1986: Harvard University Press.
+\end{thebibliography}
+\subsection{Résultats quantifiables}
+\textbf{A faire}
+\textbf{Résultats obtenus pour une histoire ni trop simple ni trop compliquée (temps d'execution pour afficher le graph, temps de compilation)}
+\section{Conclusion}
+\textbf{A faire}
+
+\textbf{Résumé de ce que nous a permis de faire et d'apprendre avec le projet}
+\end{document} 

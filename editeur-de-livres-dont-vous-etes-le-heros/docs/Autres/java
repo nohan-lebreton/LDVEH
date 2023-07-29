@@ -1,0 +1,12 @@
+Compiler de base :
+javac -d build src/wordcounting/WordCounter.java
+
+ou si plusieurs fichiers
+
+javac -d build src/wordcounting/*.java
+
+Executer de base :
+
+java -cp build wordcounting/Executable
+
+

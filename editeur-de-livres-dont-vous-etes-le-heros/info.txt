@@ -1,0 +1,5 @@
+javac -d build src/gestion_fichier/fichier/*.java src/color/*.java src/gestion_fichier/fichier_graph/*.java src/console/*.java src/graph/*.java src/rpg/*.java src/main/*.java src/graphique/*.java src/graphique/editeur/*.java
+
+java -cp build main.Main 
+
+
